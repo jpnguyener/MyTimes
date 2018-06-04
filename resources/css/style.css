@@ -1,0 +1,11 @@
+header {
+  dislpay: flex;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+nav {
+  display: inline-block;
+}
